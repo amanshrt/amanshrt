@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m @amanshrt #
-- 👀 A JS enthusiast, a full stack engineer and a digital content creation
+- 👀 A JS enthusiast, a full stack engineer and a digital content creator
 
 Of course, this is not the only git repo that I use. As per the requirement , I use different repos. You can find my other works in gitlab too @subashshrt and @amanshrt.
 
