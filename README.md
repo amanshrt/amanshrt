@@ -7,8 +7,6 @@ You can visit me  on : http://hungrymind.info
 
 You can contact me through : amanshrt9841@gmail.com
 
-You can support me at : https://www.buymeacoffee.com/hungrymind
-
 You can visit my youtube : https://youtube.com/c/hungrymind
 
 
